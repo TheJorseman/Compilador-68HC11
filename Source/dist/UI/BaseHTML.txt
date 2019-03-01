@@ -1,0 +1,11 @@
+<html>
+    <style type="text/css">
+    p.text    { color:#FFFFFF;font-weight:bold;font-family:Calibri;font-size:15;line-height: 0.5;}
+    span.nem  { color:#4c99e6;font-weight:bold;font-family:Calibri;font-size:15; position: absolute;left: 235px}
+    span.oper { color:#e64c4c;font-weight:bold;font-family:Calibri;font-size:15; position: absolute;left: 300px}
+    span.comm { color:#73e64c;font-weight:bold;font-family:Calibri;font-size:15; position: absolute;left: 400px}
+    span.noc  { color:#73e64c;font-weight:bold;font-family:Calibri;font-size:15; position: absolute;left: 200px}
+    </style>
+
+</head>
+	<body bgcolor="#2C3E50">
